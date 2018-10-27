@@ -1,2 +1,4 @@
 # Python
-### this is my college code(First Grade)
+### just for fun!
+<br>
+not I'm good at.
